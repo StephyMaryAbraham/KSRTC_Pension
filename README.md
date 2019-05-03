@@ -1,6 +1,5 @@
 # KSRTC_Pension
 A portal for the KSRTC pensioners
-ksrtc pension forum
 
  Module description
  
